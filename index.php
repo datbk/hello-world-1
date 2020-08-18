@@ -124,6 +124,7 @@
     <p class="text">Diese Seite auf: <?php echo $str_available_languages; ?></p>
 
 <?php endif; ?>
-
+<p> hello </p>
+<p>hello 1</p>
 </body>
 </html>
